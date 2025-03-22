@@ -1,0 +1,13 @@
+streamlit
+numpy
+nltk
+faiss-cpu
+PyMuPDF
+reportlab
+langchain
+langchain-groq
+sentence-transformers
+python-dotenv
+sendgrid
+transformers
+torch
