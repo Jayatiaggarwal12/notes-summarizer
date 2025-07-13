@@ -1,36 +1,85 @@
 # 📝 Notes Summarizer
 
-An intelligent **notes summarization and self-evaluation tool** built using **Streamlit**. This app helps students and learners quickly summarize any subject notes, interact with a chatbot, and test their understanding with generated questions and answers — all from a single interface.
+An intelligent, interactive note summarization and self-evaluation tool built using **Streamlit**. This app allows users to upload subject notes, generate summaries, chat with an AI assistant, receive potential questions, test their understanding, and download the final summary for offline use.
+
+
 
 ---
 
-## 🚀 Features
+## 🧩 Project Overview
 
-- 📚 **Notes Summarization**  
-  Upload any subject notes and receive a clean, structured summary generated automatically.
-
-- 💬 **Chat Mode**  
-  Ask questions or clarify parts of your uploaded content via a chatbot interface.
-
-- ❓ **Potential Questions**  
-  Get a list of questions that can be asked based on your notes.
-
-- 🧠 **Test Yourself**  
-  The app generates a test question and checks whether your answer is right or wrong.
-
-- 💾 **Download Summary**  
-  You can export and download the summary along with related information for offline revision.
+This application is designed for students or self-learners who want to condense and interact with large volumes of study material. The system extracts key information from user-provided notes, provides an AI chat mode for contextual questions, generates test questions, and even evaluates user answers.
 
 ---
 
-## 🛠 Tech Stack
+## 🔑 Key Features
 
-- **Frontend:** Streamlit  
-- **Backend:** Python  
-- **NLP / AI:** Large Language Models (LLMs) via OpenAI/Groq (or local models)  
-- **Others:** PDF/Text Parsing, Download Functionality, State Management
+- 📚 **Notes Summarization:**  
+  Upload any academic content (text or PDF) and receive a clear, concise summary.
+
+- 💬 **Chat Mode:**  
+  Ask questions about the uploaded content and get context-aware responses from the AI chatbot.
+
+- ❓ **Potential Questions:**  
+  The app automatically generates a list of questions based on the provided notes — useful for exam prep.
+
+- 🧠 **Self-Assessment:**  
+  The app presents a test question. You can answer it and receive instant feedback on correctness.
+
+- 💾 **Download Summary:**  
+  Download the generated summary, questions, and insights as a `.txt` file for revision or sharing.
 
 ---
+
+## 💡 Impact
+
+This tool serves as a **study companion** for students by:
+- Saving time in manual note summarization  
+- Enabling interactive revision via AI  
+- Generating practice questions automatically  
+- Promoting self-testing for better retention  
+- Supporting offline study through downloadable content
+
+---
+
+## 🖼️ Application Screenshots & Feature Gallery
+
+### 📝 Notes Upload and Summarization  
+Add your subject notes and instantly receive a summarized version.  
+![Note Summarizer](noteSummarizer.png)
+
+---
+
+### 📄 Summary Output  
+Get a clean, structured summary that highlights key points from your content.  
+![Summary](summary.png)
+
+---
+
+### 💬 Chatbot Mode  
+Interact with the notes through natural conversation and get AI-driven answers.  
+![Chatbot](chatbot.png)
+
+---
+
+### ❓ Auto-Generated Questions  
+View relevant questions the system can generate based on your notes.  
+![Questions](questions.png)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## 👩‍💻 Author
+
+**Jayati Aggarwal**  
+Computer Science & Engineering  
+Email: aggarwaljayati58@gmail.com  
+[LinkedIn](#) | [GitHub](#)
 
 
 
